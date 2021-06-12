@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @draebsemaj
 
 - 👀 I’m interested in ...
-        Printmaking, Dungeons and Dragons, and Learning new things.
+        Printmaking, Dungeons and Dragons, and learning new things.
         
 - 🌱 I’m currently learning ...
         Javascript / Full Stack Development with Codecademy.
